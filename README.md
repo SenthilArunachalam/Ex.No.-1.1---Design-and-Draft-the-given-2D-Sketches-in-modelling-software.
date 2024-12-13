@@ -1,5 +1,6 @@
 # Ex.No.-1.1-Design and Draft the given 2D Sketches in modelling software.
-
+### NAME:SENTHIL ARUNACHALAM P
+### REG NO :24900904
 ## AIM
 
 To sketch the given drawing with dimensions using fusion 360 tool.
@@ -42,6 +43,8 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 ![image](https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png)
 
 ## OUTPUT
+
+![1 1](https://github.com/user-attachments/assets/0ac0c163-1b51-43ad-a5b4-d006244dbb81)
 
 
 ## RESULT
